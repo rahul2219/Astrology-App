@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    overflow: hidden;
+    border-bottom: 2px solid rgb(248, 145, 10);
+}
+.row div{
+    text-align: left;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    /* margin-left: 27px;
+    margin-bottom: 25.4px;
+    margin-top: 10px; */
+}
+.span{
+    text-align: left;
+}
+

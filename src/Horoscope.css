@@ -1,0 +1,27 @@
+body{
+    background:url("https://images.hindustantimes.com/img/2022/06/19/550x309/FINANCE_4_1647199390489_1655663812024.jpeg") no-repeat;
+    background-size: cover;
+}
+.horoscope-heading{
+    color: rgb(230, 18, 18);
+    text-align: center;
+    text-decoration: underline;
+}
+.horoscope-table{
+    background-color: rgb(250, 205, 121);
+    width:80%;
+    border: 2px solid rgb(248, 145, 10);
+    color: red;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.table-headings{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(248, 145, 10);
+    overflow: hidden;
+    /* color: white;
+    background-color: violet; */
+}
